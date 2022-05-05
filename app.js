@@ -7,5 +7,4 @@ app.get('/', (req, res) => res.send('Cheers to the weekend! Its Summertime!'));
 app.listen(port);
 console.log(`App running on http://localhost:${port}`);
 
-git add app.js
-git commit -m "change message"
+
